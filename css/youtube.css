@@ -1,0 +1,5 @@
+@-moz-document domain("youtube.com") {
+#comments, .ytd-watch-next-secondary-results-renderer:not(:first-child) {
+    display: none;
+}
+}
